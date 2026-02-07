@@ -1,0 +1,1026 @@
+{
+   "checksum": "aa75cf32ef76311a60d8e789f01c5282",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13414953634185944",
+            "date_last_used": "0",
+            "guid": "d3a5eabe-b491-4c29-8b20-b9d383cef194",
+            "id": "92",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13414953634185627",
+            "date_last_used": "0",
+            "guid": "1c89398a-eaf6-4544-87b6-f202ff9e14dc",
+            "id": "91",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13414953634182721",
+            "date_last_used": "0",
+            "guid": "69c23e11-b298-4d19-bdfc-7bf2eadf42dd",
+            "id": "90",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13333829193243806",
+            "date_last_used": "13352199752838870",
+            "guid": "b9cd1153-7a35-4f54-9255-f7f91bca8f55",
+            "id": "9",
+            "name": "Learn to Code - for Free | Codecademy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.codecademy.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13342028133801492",
+            "date_last_used": "13358879527349692",
+            "guid": "96e35e78-5bc5-45a8-a8e3-51487fc56398",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Browse All Free Courses with Certificates by Great Learning",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses",
+            "visit_count": 0
+         }, {
+            "date_added": "13345656796583323",
+            "date_last_used": "13356013892971693",
+            "guid": "8085db26-71de-4db7-8d96-b53edee8b0fa",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Microsoft Designer - Stunning designs in a flash",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://designer.microsoft.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13348431481937225",
+            "date_last_used": "0",
+            "guid": "60dbbccf-c11a-4ce3-9631-3a64018a00b1",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Play Console  |  Android Developers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://developer.android.com/distribute/console",
+            "visit_count": 0
+         }, {
+            "date_added": "13349457086085313",
+            "date_last_used": "13350734184643632",
+            "guid": "c9b51397-5b13-4f00-9868-320586f4f0fb",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "State Common Entrance Test Cell | Government of Maharashtra",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cetcell.mahacet.org/",
+            "visit_count": 0
+         }, {
+            "date_added": "13350495167731725",
+            "date_last_used": "0",
+            "guid": "123ae278-6519-4fdb-9cfc-cdff2ebf8051",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "My Drive - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/my-drive",
+            "visit_count": 0
+         }, {
+            "date_added": "13351060776512908",
+            "date_last_used": "13362073698631193",
+            "guid": "f8033f21-f6b6-4b6e-bc2c-4914e33d0523",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Aglasem - Helping Student Community",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aglasem.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13351060926889161",
+            "date_last_used": "0",
+            "guid": "33dc58fe-9fb6-436b-a150-633996145205",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "EMBIBE - The most powerful AI-powered learning platform",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.embibe.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13352300556463517",
+            "date_last_used": "0",
+            "guid": "46bfe79a-6c7d-4799-9ac9-8c0fb1b837bc",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "jixserver/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/jixserver/free-for-dev",
+            "visit_count": 0
+         }, {
+            "date_added": "13354803765931948",
+            "date_last_used": "13376600905697200",
+            "guid": "70e1d43c-fe50-4b66-a058-904cebf53032",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "✔ PDF OCR - Recognize text - easily, online, free - PDF24 Tools",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tools.pdf24.org/en/ocr-pdf#s=1710329940978",
+            "visit_count": 2
+         }, {
+            "date_added": "13356374556225899",
+            "date_last_used": "0",
+            "guid": "6b763f30-c0c7-4108-bb0c-7a1ea3ac3093",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AI Training Data and other Data Management Services",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.clickworker.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13358533073006853",
+            "date_last_used": "0",
+            "guid": "19bbd4a9-f5d3-4cc0-b1c8-6e4d6edc2c08",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MHT CET Mock Test 2024 (Available), Free Mock Test for PCM and PCB Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://collegedunia.com/exams/mht-cet/mock-test",
+            "visit_count": 0
+         }, {
+            "date_added": "13358711394684008",
+            "date_last_used": "0",
+            "guid": "48b6701b-7e10-41e9-888f-c0ce3eb36afa",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Official Digital SAT® Prep | Test prep | Khan Academy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.khanacademy.org/test-prep/digital-sat",
+            "visit_count": 0
+         }, {
+            "date_added": "13358887427680698",
+            "date_last_used": "0",
+            "guid": "a225eb4d-e389-432a-992c-597e55563052",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YT Jobs | The YouTube Creators Job Board",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ytjobs.co/",
+            "visit_count": 0
+         }, {
+            "date_added": "13360678194075823",
+            "date_last_used": "0",
+            "guid": "d9f7303a-3e18-463e-a704-4c64370683e4",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HSC Result 2024",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hscresult.mkcl.org/",
+            "visit_count": 0
+         }, {
+            "date_added": "13362926072116786",
+            "date_last_used": "0",
+            "guid": "979ae7ad-0bb7-4733-8ba6-47d6389fb30c",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hiten Codes Resources | Instagram | Linktree",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://linktr.ee/hiten.codes",
+            "visit_count": 0
+         }, {
+            "date_added": "13366467083220591",
+            "date_last_used": "0",
+            "guid": "5a359797-1eff-43a3-9a5d-befbb3f4c4da",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Shinchan the Movie Rakuga Kingdom (Hindi) - video Dailymotion",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.dailymotion.com/video/x90gx0u",
+            "visit_count": 0
+         }, {
+            "date_added": "13366829920152674",
+            "date_last_used": "0",
+            "guid": "52cd37eb-1ec1-44da-a98b-5bc50fff53b1",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CyberBullying Detection Dataset",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.kaggle.com/datasets/sayankr007/cyber-bullying-data-for-multi-label-classification/code",
+            "visit_count": 0
+         }, {
+            "date_added": "13367951101081664",
+            "date_last_used": "0",
+            "guid": "c1f7fcf7-386c-48f2-a069-a3f59af81ba8",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "W3Schools Online Web Tutorials",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.w3schools.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13368124042296666",
+            "date_last_used": "0",
+            "guid": "d3e26929-c11c-43aa-8aaf-dac9618ec46c",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Best Software Training Institute Pune",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://codefirstacademy.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13375345670558982",
+            "date_last_used": "0",
+            "guid": "b23a746d-0901-4e05-87d7-d3748520cf6e",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sign Up | Codeium · Free AI Code Completion & Chat",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://codeium.com/account/register?extensionName=vscode",
+            "visit_count": 1
+         }, {
+            "date_added": "13382781220720962",
+            "date_last_used": "0",
+            "guid": "b1890c19-68da-45d7-8537-4337d735e410",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Summer of Code 2025 is here! | Google Open Source Blog",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://opensource.googleblog.com/2025/01/google-summer-of-code-2025-is-here.html",
+            "visit_count": 1
+         }, {
+            "date_added": "13383831357757199",
+            "date_last_used": "0",
+            "guid": "5d20aad4-e9ef-4e32-8d99-1a47d69aec1c",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Midjourney",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.midjourney.com/home",
+            "visit_count": 1
+         }, {
+            "date_added": "13383832351471171",
+            "date_last_used": "0",
+            "guid": "a98ea4e7-5020-421c-9a12-f26a64140d87",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Amazon Merch on Demand",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://merch.amazon.com/landing",
+            "visit_count": 1
+         }, {
+            "date_added": "13386180017006409",
+            "date_last_used": "0",
+            "guid": "b144eb11-3a05-4b60-8c20-93af6522c241",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Devpost",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://devpost.com/submit-to/22628-mega-hackathon-2025/manage/submissions?_gl=1*1n1tn2d*_gcl_au*MTc5MDA0NDE4OC4xNzQxNzA2MTM0*_ga*ODk0MjY5MS4xNzQxNzA2MTM1*_ga_0YHJK3Y10M*MTc0MTcwNjEzNC4xLjEuMTc0MTcwNjI3My4wLjAuMA..",
+            "visit_count": 1
+         }, {
+            "date_added": "13386180021491460",
+            "date_last_used": "0",
+            "guid": "b759b3d8-f4ce-4117-8a7a-a60f64e9d4cc",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Programming Challenges, Coding competitions, and Hackathons | HackerEarth",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.hackerearth.com/challenges/",
+            "visit_count": 1
+         }, {
+            "children": [ {
+               "date_added": "13386483467098293",
+               "date_last_used": "0",
+               "guid": "515d6821-d2e3-44d6-8043-fc59443fd176",
+               "id": "36",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Google Certified Courses Online | Grow with Google India",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://grow.google/intl/en_in/certificates/",
+               "visit_count": 1
+            }, {
+               "date_added": "13386483388358195",
+               "date_last_used": "0",
+               "guid": "3edaffe5-3cae-4d1b-8c85-92c13eed32fb",
+               "id": "37",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "IBM Training",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.ibm.com/training/",
+               "visit_count": 1
+            }, {
+               "date_added": "13386483606390118",
+               "date_last_used": "0",
+               "guid": "3afc4572-7c70-43dc-b025-29d9d0b9fc30",
+               "id": "38",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Meta Certification: Professional certificate exams from Meta | Meta for Business",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.facebook.com/business/learn/certification",
+               "visit_count": 1
+            }, {
+               "date_added": "13388220694421010",
+               "date_last_used": "0",
+               "guid": "280da7db-36db-4bdf-b00e-34ee4d901ccb",
+               "id": "39",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Program Organization | Google Summer of Code",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://summerofcode.withgoogle.com/programs/2025/organizations/cgal-project",
+               "visit_count": 1
+            }, {
+               "date_added": "13388220866433792",
+               "date_last_used": "0",
+               "guid": "a66afb60-b275-4824-a6ee-549ff371a782",
+               "id": "40",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Program Organization | Google Summer of Code",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://summerofcode.withgoogle.com/programs/2025/organizations/r-project-for-statistical-computing",
+               "visit_count": 1
+            }, {
+               "date_added": "13388222022106066",
+               "date_last_used": "0",
+               "guid": "2685a485-d317-4284-8e50-8c4b84c1265d",
+               "id": "41",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Program Organization | Google Summer of Code",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://summerofcode.withgoogle.com/programs/2025/organizations/electron",
+               "visit_count": 1
+            }, {
+               "date_added": "13388222059419681",
+               "date_last_used": "0",
+               "guid": "4d99220e-4bd4-4f6e-92f7-adace732b0ba",
+               "id": "42",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Program Organization | Google Summer of Code",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://summerofcode.withgoogle.com/programs/2025/organizations/videolan",
+               "visit_count": 1
+            }, {
+               "date_added": "13388345568162301",
+               "date_last_used": "0",
+               "guid": "dc1c25b7-f177-4d94-ad16-8b40cc0c4ec3",
+               "id": "43",
+               "name": "vlc-devel Info Page",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://mailman.videolan.org/listinfo/vlc-devel",
+               "visit_count": 1
+            }, {
+               "date_added": "13388692585892019",
+               "date_last_used": "0",
+               "guid": "990b861c-f059-45c3-b667-533885aa99a7",
+               "id": "44",
+               "name": "Cart | Hostinger",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://cart.hostinger.com/pay/5f686277-a141-4861-a741-1f1aa6fd757a?amp_session_id=1744216810374&from=websites",
+               "visit_count": 1
+            }, {
+               "date_added": "13388692590892113",
+               "date_last_used": "0",
+               "guid": "90bed036-126e-44d9-8ffc-37f74779cbf3",
+               "id": "45",
+               "name": "My Store · Your free trial has expired – select a plan to continue. · Shopify",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://admin.shopify.com/store/h2z4b8-p0/access_account/settings/subscribe/select-plan",
+               "visit_count": 1
+            }, {
+               "date_added": "13390647715199972",
+               "date_last_used": "0",
+               "guid": "5edbaf91-3cc4-4e93-9467-2c4a6f5f10e1",
+               "id": "46",
+               "name": "Adobe 2021 - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1N1pPfqDpjHjduHnXVSBAcvMlJ2F4F1ZN",
+               "visit_count": 1
+            }, {
+               "date_added": "13392155229567067",
+               "date_last_used": "0",
+               "guid": "375ac117-5e9d-49fa-a35f-83f6cd31dc1b",
+               "id": "47",
+               "name": "Manus",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://manus.im/",
+               "visit_count": 1
+            } ],
+            "date_added": "13386483485883218",
+            "date_last_used": "0",
+            "date_modified": "13392155229567067",
+            "guid": "ccb9cffc-d909-4772-bf8d-423baaeaaa0e",
+            "id": "35",
+            "name": "IT learning",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13392761131876594",
+            "date_last_used": "0",
+            "guid": "67cb7662-03a5-4a68-ae81-7c3adb9b9257",
+            "id": "48",
+            "name": "AI Video Quality Enhancer - 100% Free, No Sign-up",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://unblurimage.ai/video-enhancer/",
+            "visit_count": 1
+         }, {
+            "date_added": "13393012858331887",
+            "date_last_used": "0",
+            "guid": "0899fc5d-0067-449a-80cf-f5166277fcc0",
+            "id": "49",
+            "name": "Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.flaticon.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13394712374733351",
+            "date_last_used": "0",
+            "guid": "8455cc06-9461-405a-9668-dabb4ccd8bc6",
+            "id": "50",
+            "name": "Untitled notebook - NotebookLM",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://notebooklm.google.com/notebook/e17e30e0-8600-4796-8f83-b7ee62f919f1?_gl=1*1mblty0*_ga*Mzk0MTEzNjI5LjE3NTAyMzczMDY.*_ga_W0LDH41ZCB*czE3NTAyMzczMDYkbzEkZzEkdDE3NTAyMzczMDYkajYwJGwwJGgw&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1",
+            "visit_count": 1
+         }, {
+            "date_added": "13395346537703190",
+            "date_last_used": "0",
+            "guid": "5541adf6-5c4b-44e4-a338-08378c34d859",
+            "id": "51",
+            "name": "Manus",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://manus.im/app",
+            "visit_count": 1
+         }, {
+            "date_added": "13395350351994769",
+            "date_last_used": "0",
+            "guid": "bfa71360-f383-4cc5-bf65-eb27244b1539",
+            "id": "52",
+            "name": "bolt.new/~/sb1-1jzzitzj",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bolt.new/~/sb1-1jzzitzj",
+            "visit_count": 1
+         }, {
+            "date_added": "13395865667143839",
+            "date_last_used": "0",
+            "guid": "d4d46081-05fd-45d7-9ab5-2e386e509a03",
+            "id": "53",
+            "name": "dog labrador - Search Images",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/images/search?q=dog%20labrador&qs=n&form=QBIR&sp=-1&ghc=2&lq=0&pq=dog%20lab&sc=10-7&cvid=C22E4E1D22754D9BA42CF1104D2F00FB&first=1",
+            "visit_count": 1
+         }, {
+            "date_added": "13395865684442596",
+            "date_last_used": "0",
+            "guid": "0d9a8028-c4dc-45a6-838d-174f8ce914b4",
+            "id": "54",
+            "name": "labrador-retriever-photo-7.jpg (2091×3000)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dogbreeds.wiki/uploads/l/labrador-retriever-photo-7.jpg",
+            "visit_count": 1
+         }, {
+            "date_added": "13395865733764374",
+            "date_last_used": "0",
+            "guid": "825e901e-01e6-43ce-80e4-90f0e0e089e6",
+            "id": "55",
+            "name": "chole-bhature-is-a-north-indian-food-dish-a-combination-of-chana-masala-and-bhatura-or-puri-free-photo.jpg (2937×1960)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://static.vecteezy.com/system/resources/previews/015/933/458/large_2x/chole-bhature-is-a-north-indian-food-dish-a-combination-of-chana-masala-and-bhatura-or-puri-free-photo.jpg",
+            "visit_count": 1
+         }, {
+            "date_added": "13395865774662682",
+            "date_last_used": "0",
+            "guid": "0bcea7cc-b884-468b-871c-f7c932fbd3b3",
+            "id": "56",
+            "name": "istock-1292641486-cropped-1622451492-1635924688.jpg (2000×1250)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://im.whatshot.in/img/2021/Nov/istock-1292641486-cropped-1622451492-1635924688.jpg",
+            "visit_count": 1
+         }, {
+            "date_added": "13395865807912817",
+            "date_last_used": "13408708128010369",
+            "guid": "a4ef5729-9fcd-4d3b-9b85-205eb8204e08",
+            "id": "57",
+            "name": "happy-birthday-card_721332-37.jpg (2000×2000)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://img.freepik.com/premium-photo/happy-birthday-card_721332-37.jpg?w=2000",
+            "visit_count": 2
+         }, {
+            "date_added": "13398944309973050",
+            "date_last_used": "0",
+            "guid": "6ae97de4-8610-4a98-940d-06045d7fc2a9",
+            "id": "58",
+            "name": "MDK-ARM Version 4.00 Product Update",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.keil.com/update/sw/mdk4/4.00",
+            "visit_count": 1
+         }, {
+            "date_added": "13402224358680714",
+            "date_last_used": "0",
+            "guid": "e4431526-9f83-4cff-bc4d-1fe41cdb5bce",
+            "id": "59",
+            "name": "Devotee Information",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shrituljabhavani.org/frmAbhisheckPooja.aspx",
+            "visit_count": 1
+         }, {
+            "date_added": "13405954794530066",
+            "date_last_used": "0",
+            "guid": "017580cb-77fb-4c5e-b16d-5bdb59c8fabf",
+            "id": "60",
+            "name": "Home - NoteGPT Workspace",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://notegpt.io/workspace/home",
+            "visit_count": 1
+         }, {
+            "date_added": "13405955213283223",
+            "date_last_used": "0",
+            "guid": "b4dabcf9-9c66-45ac-8426-8a2045f0035b",
+            "id": "61",
+            "name": "Become a MySQL 8.0 Database Developer Professional - Oracle MyLearn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mylearn.oracle.com/ou/learning-path/become-a-mysql-80-database-developer-professional/82110",
+            "visit_count": 1
+         }, {
+            "date_added": "13406103295134225",
+            "date_last_used": "0",
+            "guid": "90b262b1-2c4e-4be2-96f7-47917656dc8e",
+            "id": "62",
+            "name": "Programming Courses | Harvard University",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pll.harvard.edu/subject/programming",
+            "visit_count": 1
+         }, {
+            "date_added": "13406103299763493",
+            "date_last_used": "0",
+            "guid": "b7ade6dc-7bd2-4760-b599-1a460a4739d3",
+            "id": "63",
+            "name": "User Experience Design Fundamentals (Earn a credential!) | SkillsBuild",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://students.yourlearning.ibm.com/activity/PLAN-44E67AF54225",
+            "visit_count": 1
+         }, {
+            "date_added": "13406103646256171",
+            "date_last_used": "0",
+            "guid": "e616ada4-2292-44f0-857f-3b2b3c7e3a56",
+            "id": "64",
+            "name": "Search | MIT OpenCourseWare | Free Online Course Materials",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ocw.mit.edu/search/?l=Undergraduate&q=ui%2Fux",
+            "visit_count": 1
+         }, {
+            "date_added": "13406104266780659",
+            "date_last_used": "0",
+            "guid": "fcc91e25-e1fd-4af2-8a86-f2883c533f8e",
+            "id": "65",
+            "name": "Training - Courses, Learning Paths, Modules | Microsoft Learn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learn.microsoft.com/en-us/training/",
+            "visit_count": 1
+         }, {
+            "date_added": "13407772895684336",
+            "date_last_used": "0",
+            "guid": "80a793e4-f5f1-41ed-9ba0-6dcbd6d09623",
+            "id": "66",
+            "name": "50 hackathons.xlsx",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://onedrive.live.com/:x:/g/personal/F5C011DEFF6EC167/EVe5VCGQdH1LrhWPmR1X2wEBwQyFeYKSxuK0s8xvoZxGWA?resid=F5C011DEFF6EC167!s2154b95774904b7dae158f991d57db01&ithint=file%2Cxlsx&e=KqPHd2&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9mNWMwMTFkZWZmNmVjMTY3L0VWZTVWQ0dRZEgxTHJoV1BtUjFYMndFQndReUZlWUtTeHVLMHM4eHZvWnhHV0E_ZT1LcVBIZDI",
+            "visit_count": 1
+         }, {
+            "date_added": "13408385140920640",
+            "date_last_used": "0",
+            "guid": "26f7cd7d-f7a7-410e-b7ca-470ddb03ea75",
+            "id": "67",
+            "name": "Cisco Packet Tracer | Cisco Packet Tracer",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.netacad.com/cisco-packet-tracer",
+            "visit_count": 1
+         }, {
+            "date_added": "13409087786788959",
+            "date_last_used": "0",
+            "guid": "a0292e88-ba1b-48d2-bd1f-d9110974bdf0",
+            "id": "68",
+            "name": "Python Certification | freeCodeCamp.org",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/learn/python-v9/#workshop-caesar-cipher",
+            "visit_count": 1
+         }, {
+            "date_added": "13411501771058850",
+            "date_last_used": "0",
+            "guid": "fc42a16f-cffb-462b-9d2c-798e5c46271d",
+            "id": "69",
+            "name": "Fancy App",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://masterclass.getdevops.services/",
+            "visit_count": 1
+         }, {
+            "date_added": "13411976522152877",
+            "date_last_used": "0",
+            "guid": "fe153312-598f-48c3-8e70-c0b6e50fe8e4",
+            "id": "70",
+            "name": "Anime World India - Best Source For Hindi, Tamil, Telugu Anime & Cartoons - Anime World India - Anime World , AnimeWorld , Anime World India , Anime World APK , Best Source of Best Source For Hindi, Tamil, Telugu Anime & Cartoons",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://watchanimeworld.in/",
+            "visit_count": 1
+         }, {
+            "date_added": "13412272092867535",
+            "date_last_used": "0",
+            "guid": "5667e52c-0638-441d-b46d-7ee71e5e20b7",
+            "id": "71",
+            "name": "(28) Master Backend Development Series | NodeJS | MongoDB | Express JS - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOkXRLxdMt1NOMtCS-84ibHH",
+            "visit_count": 1
+         }, {
+            "date_added": "13413380095666632",
+            "date_last_used": "0",
+            "guid": "dd294c78-6ec9-4926-a927-ae7376346f56",
+            "id": "72",
+            "name": "Pune University Cgpa Calculator - Cgpa Calculator",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cgpacalculation.com/pune-university-cgpa-calculator/",
+            "visit_count": 1
+         }, {
+            "date_added": "13413393985505316",
+            "date_last_used": "0",
+            "guid": "1c852f1f-87ad-4db0-bf98-0b2509315f47",
+            "id": "73",
+            "name": "Careasa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://crm.careasa.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13414395701886109",
+            "date_last_used": "0",
+            "guid": "1396a8bc-2478-4446-bba5-4e163baab920",
+            "id": "74",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://support.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13414395701885813",
+            "date_last_used": "0",
+            "guid": "29500798-f15f-4f1b-9065-f86537f8f88f",
+            "id": "75",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13414395701883821",
+            "date_last_used": "0",
+            "guid": "7b9907d8-0fc6-426a-aa8d-4f7d9dbc8dc7",
+            "id": "76",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13414689691321041",
+            "date_last_used": "0",
+            "guid": "21d2d3b6-f4c3-4b28-a605-62e26bb68d62",
+            "id": "77",
+            "name": "kiranlondhe432005/first_production_pr",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/kiranlondhe432005/first_production_pr",
+            "visit_count": 1
+         }, {
+            "date_added": "13414952308172858",
+            "date_last_used": "0",
+            "guid": "fa63a684-6b6d-447b-ae81-a44406a9c94d",
+            "id": "87",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13414952308172333",
+            "date_last_used": "0",
+            "guid": "da95d588-960b-40fd-b4e2-42e43229a5a9",
+            "id": "86",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13414952308170417",
+            "date_last_used": "0",
+            "guid": "39428ecb-1802-4cb6-a2f7-98b522bcc08b",
+            "id": "85",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13414949011970331",
+            "date_last_used": "0",
+            "guid": "e45d2a39-02cd-40ca-b6aa-35f1348aae01",
+            "id": "82",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13414949011970077",
+            "date_last_used": "0",
+            "guid": "a0ae20a2-257d-4b96-8794-bdaff7ec3652",
+            "id": "81",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13414949011968708",
+            "date_last_used": "0",
+            "guid": "291dcb7f-e3b6-48e2-be4d-a1e110e90661",
+            "id": "80",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13414947590942534",
+            "date_last_used": "0",
+            "guid": "1800f1e0-ac75-4aef-9b08-0bd7e4e8a9a4",
+            "id": "8",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13414947590942334",
+            "date_last_used": "0",
+            "guid": "2ed8a1d2-902f-42d0-a4b6-36b7b82ca502",
+            "id": "7",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13414947590941489",
+            "date_last_used": "0",
+            "guid": "a37269e8-a2e9-472d-b7b0-7141b70eac60",
+            "id": "6",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html",
+            "visit_count": 0
+         } ],
+         "date_added": "13414947590559951",
+         "date_last_used": "0",
+         "date_modified": "13414953634185944",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13414947590559951",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13414947590559951",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCAv3GSmcAQAAEgAqGDlIRVM3RzlLZndDVzNsRHJjWlg0M2c9PUgDoAYHEq4BCAwSqQEKHEVJeE1lNi9jb1hyODFFZCtqZmlDWjRvZTUyWT0SJDYwZGJiY2NmLWMxMWEtNGNlMy05NjMxLTNhNjQwMThhMDBiMRgAIAAoADC3jsOirjM45+K33ssxQOfit97LMUocS2FvR1J2WG5VNllJZGkxOHdpSGJkd213YUU0PVogIh7//213SGttbVg4VUsxcTA5a1BFZUZLQm9sbU1Qcz1lAAAAAMI+AmAFEq0BCC4SqAEKHE9sajlUZUxhbXQ4VDR3OFo3Znh0Z0hzR2U5cz0SJDVlZGJhZjkxLTNjYzQtNGU5My05NDY3LTJjNGE2ZjVmMTBlMRgAIAAoADCzh9qA6TI4/InagOkyQPyJ2oDpMkocMjBDckY1ZzhlZk80bE9FMEVmRzZxNGVsQzhNPVofIh3/dWR3cVZNYWpnZkFYNkVQcXNZaHJoNGtXbGxnPWX6kd7bwj4CYAUSrwEIDxKqAQocakNoZkdYZXdDMGYxOHYxMUwzTDBlVllFeFNZPRIkZjgwMzNmMjEtZjZiNi00YjZlLWJjMmMtNDkxNGUzM2QwNTIzGAAgACgAMLSOw6KuMzjBl5fE1TFAwZeXxNUxShx2TUpoWm5hZG9XUEV1S2ZEUGoza2k3Rm9nSDA9WiEiH///91BIMThGTXVxTHc2eGhTZ0tUaTBNbkY2Nk1tUT1lAAAAAMI+AmAFEq0BCCwSqAEKHDZYQk9uUkZrZFBGMVRKNUs2ckdCVG9KcHRETT0SJDk5MGI4NjFjLWYwNTktNDVjMy1iNjY3LTUzMzg4NWFhOTlhNxgAIAAoADC6uLbc4TI4/Lq23OEyQPy6ttzhMkoceTJPOE1CUmJTbW1FczhxNXl5ZDNvd25NTmRVPVofIh3/R3pYYzErakdpbStCRG00MUdSRml1ZlpsYy9jPWXzJsQ9wj4CYAUStQEIQRKwAQoceU03eVp1RmxWMkN1WUt5dG5adkxnbC9VUjl3PRIkZmNjOTFlMjUtZTFmZC00YWYyLThhODYtZjI4ODNjNTMzZjhlGAAgACgAMLyh+8qiMzj3svvKojNA97L7yqIzShx4RVpZbnpqMDR4SWFLTGhZUVUvUmdGU2FNTzg9WiciJf////8AAAAH7VF2UFdCNXlIam9ITk1YNVc2RG9MbFU5QU83VT1lRPyrtcI+AmAFErUBCDASsAEKHFVtVlBLTzZpYUI1Z21JQkVydHpyNmVUSHB2bz0SJDY3Y2I3NjYyLTAzYTUtNGE2OC1hZTgxLTdjM2FkYjliOTI1NxgAIAAoADDFl7vw8DI4hv668PAyQIb+uvDwMkocZ2VNWVR4QU1weXI2NmdrQS9tVnJXaWtFcWRrPVonIiX/////AAAABft2ZXJWLzFxUDY4Z2x4T2dlUm1nZ1Bybm9rZTQ9ZYCOFlHCPgJgBRKwAQgTEqsBChxjb0Mzb0RKVndkZ01iYTV6cUM2cDZBS0twbWM9EiQ2Yjc2M2YzMC1jMGM3LTQxMDgtYmIwYy03YTFlYTNhYzMwOTMYACAAKAAwkuf+qekxONvs/qnpMUDb7P6p6TFKHDFZemRSazQ1bnFMUWx4LzJZNGxvQndVaUFRWT1aIiIg////90puUXpKVjJIdXFkVkpHb3RoR2kveE9scU9pRT1l5xk02cI+AmAFErUBCEgSsAEKHHZFTUZ0Zi9SYTBsamlNSVA4M1owTnUrdkxuST0SJGRkMjk0Yzc4LTZlYzktNDkyNi1hOTI3LWFlNzM3NjM0NmY1NhgAIAAoADCTw6zYvTM49cas2L0zQPXGrNi9M0oca3ZGRmR0eTNvbitSVVJac2J6UFdvRmVYc0I0PVonIiX/////AAAACNxteEV2emszRFNmaGN6R04rNG5IZGo5Yzh4YXM9ZRUHZMrCPgJgBRK1AQgjErABChxaNC9oOG00TUxmN0NFcDd5eWFWZ216NUhUdU09EiRjY2I5Y2ZmYy1kOTA5LTQ3NzItYmY4ZC00MjNiYWFlYWFhMGUYACAAKAAwiumFv9kyOIHrhb/ZMkCB64W/2TJKHFdJbGEyU1oyekF0bERoSVlhc2wyWkJLSnRIMD1aJyIl/////wAAAAX2SHd4S1ZCMjQ3ZTZNa2NyY2pEektTSmw4QXg4PWUAAAAAwj4CYAASrQEICRKoAQocMnNoN2VQbUNzbkszUEhiVnhyVldqNHMxYXZBPRIkYjljZDExNTMtN2EzNS00ZjU0LTkyNTUtZjdmOTFiY2E4ZjU1GAAgACgAMLiOw6KuMzialsOrlTFAmpbDq5UxShw3Y09DYm90UnljWllwMnJsN3c3a0xHY0ZiOTA9Wh8iHfsrWlVrK0t2S3hsM08zV2hZTU9SS0J1TXJUa1U9ZQAAAADCPgJgBRK1AQgdErABChxCczY2RGwxMWRNUk5EbFhaTHZMWlVSWmFYUjA9EiRiMjNhNzQ2ZC0wOTAxLTRlMDUtODdkNy1kMzc0ODUyMGNmNmUYACAAKAAwm7SQgLAyOPe3kICwMkD3t5CAsDJKHFdYQStoWmlycU13c2dXMXBZSDRienM2SWNYOD1aJyIl/////wAAAAT7b1hWRVcwdXQxRzJqREI5U0N1WW05VW5Cdi80PWUsCUlmwj4CYAUSrwEIEBKqAQoceFlKVE5ONUJhR2dxQVdqdThhUE5ncVNUck80PRIkMzNkYzU4ZmUtOWZiNi00MzZiLWExNTAtNjMzOTk2MTQ1MjA1GAAgACgAMLqOw6KuMzjxrqDE1TFA8a6gxNUxShxxODR5T1k5bGVwZGpOOVk2ZlRQUVJ2MHdyRTQ9WiEiH///+zJJWnhObzkxWUk1ZjFsMmg4QUpOdnk3Tmt4az1lAAAAAMI+AmAFEq4BCAsSqQEKHGxvbzV1UkhJLzlSTTFGcG1CVXJweHNjUm10UT0SJDgwODVkYjI2LTcxZGUtNGRiNy04ZDk2LWI1M2VkZWU4YjBmYRgAIAAoADC1jsOirjM4v8Kus8ExQL/CrrPBMUocbWlsS0IvTWFkT3hLdVZSZEQweDY0UmpMSjdBPVogIh7/90ZiMTQ0bkhra2kweEhtQVpOVWtoWTgzSWUyZz1lAAAAAMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDE4MTdjMTMyLTU3NGYtNWE1NC05ZjE3LWZhOTAxODUyNzBlORgAIAAoADC4m4r0rzA4zp6K9K8wQM6eivSvMEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABK1AQgZErABChxKeEtBZWdzRjBiOTF6aGtnMWlic05vdHdDU3c9EiQ1YTM1OTc5Ny0xZWZmLTQzYTMtOWE1ZC1iZWZiYjNmNGM0ZGEYACAAKAAww4q/9o4yOIKLv/aOMkCCi7/2jjJKHEFTQTFKM0xYaUtkanhwRFhnczBxeEtzUjNwOD1aJyIl/////wAAAASyWC9rVUp0NUxRSndRam8yaWExcHZpT2Q2dTZ3PWXd3XxXwj4CYAUStQEIOhKwAQocWWUrdUZpMUVLNm13VGJRVlhSLzJCM08rNVQ4PRIkNmFlOTdkZTQtODYxMC00YTk4LTk0MGQtMDYwNDVkN2ZjMmE5GAAgACgAMPqq6vSHMzjZuer0hzNA2bnq9IczShxjVjJ2UGN5dzVEOEJrcEcyWlM2VHlCc0NRenM9WiciJf////8AAAAG+2VhWU10bzZRQXNTb1FtaGxoTXI3aS9jdWhLVT1lAAAAAMI+AmAFEq8BCA4SqgEKHEM4MnpmWjlVUHY5bElJTFNqVGRNYUZLR1RxVT0SJDEyM2FlMjc4LTY1MTktNGZkYi05Y2ZjLWNkZmYyZWJmODA1MRgAIAAoADCAtai7wTM4x4y9ttMxQMeMvbbTMUocbGNSRFNiZENVZ1BKNVpYQXlmL0k1cWlVMnZZPVohIh///+4rdy9VRENIL1BXSSthaEcxUUFDbmdaL2E5dmc9ZfqR3tvCPgJgBRK0AQgXEq8BChxMSXJjeUVacFdOemVYMDRhVkd6a0JRVE9DWEE9EiRkOWY3MzAzYS0zZTE4LTQ2M2UtYTcwNC00YzY0MzcwNjgzZTQYACAAKAAw9ouTrvkxOOeLkK75MUDni5Cu+TFKHGE3N0R1ZXAvS0FsZ1ppU3pHV0ZaQWZCZnpNRT1aJiIk/////wAAAARWRXkxZUxPTFNEK1ZDS0RDd2kvL1hvTUEweGM9ZbGmPAPCPgJgBRK1AQg4ErABChx4WjBtRnR0UjVpbmtpUHZzOG9nWmFSZ28zQ2s9EiQwYmNlYTdjYy1iODg0LTQ2OGItODcxYy1mN2M5MzJmYmQzYjMYACAAKAAw0J3vuPwyONag77j8MkDWoO+4/DJKHHRQWFZ2ZmJCOVVPbTdRMUVpSUdWb0dhNFRuZz1aJyIl/////wAAAAbtZEdhb0s4TEx4dHBHcXdBcTgxTlhnSVlZWjcwPWWMFnoTwj4CYAUSsAEIEhKrAQocenAyT1h5amI3U2Ewd2ZLR1FTU1ZCK1BzMlh3PRIkNzBlMWQ0M2MtZmU1MC00YjY2LWEwNTgtOTA0Y2ViZjUzMDMyGAAgACgAMLKOw6KuMziFlP284zFAhZT9vOMxShxrUEpzK3ZEdS9jbVBwSTZuZVI4TnhhZ0FSdlE9WiIiIP///71Eb2tOR3BIaksreFhReFYwdm5jb04vOEdXem89ZQAAAADCPgJgBRK1AQg7ErABChwrRnFCaW16UXU4RWdCaVFMTGF0cmNPU2JvT1U9EiRlNDQzMTUyNi05ZjgzLTRjZmYtYmM0ZC0xZmU0MWNkYjViY2UYACAAKAAwhq3wkJQzOMG18JCUM0DBtfCQlDNKHEplWDhpL05XK21sSTlDQm11a1BwVURBKzNZcz1aJyIl/////wAAAAb9OUF6eGloalZ0bHZEcklWa2xRR1B5OHlDaWhBPWV6s1YIwj4CYAUSsAEIFBKrAQocdjd5cmFlai9ZOVRtYjVJVFpOc1ZEcEg3c1pZPRIkMTliYmQ0YTktZjVkMy00Y2MwLWIxYzgtNmU0ZDZlZGMyYzA4GAAgACgAMMiKoK/xMTjgi6Cv8TFA4Iugr/ExShw2WWpuRGNEdVBQSVhVamZnbGNIWm0xODRUcDQ9WiIiIP////1DUGlnYzRCSFFaU0loL3orZktNN0l2RG9IVWc9ZeMhcVrCPgJgBRKwAQgVEqsBChxBczdrV25za0gyVlNNYXpuaFlFdVNnRGlncW89EiQ0OGI2NzAxYi03ZTEwLTQxZTktODg4Zi1jMGNlM2ViMzZhZmEYACAAKAAw/e+jhPIxOJXxo4TyMUCV8aOE8jFKHFZ3VG5OVEJpaERqN2ZYMno3c1I0MENaYzdORT1aIiIg/////jI2K2k1MHJHYmhPR2VrS1RLVlczdjVpV3hMST1lNiTYa8I+AmAFErUBCEMSsAEKHE9iSFRnTFJFUmFkME1zNkFiMHVGbWFOMjNpdz0SJDI2ZjdjZDdkLWY3YTctNDEwZS1iN2NhLTQ3MGRkYjAzZWE3NRgAIAAoADCN+4nruzM4z+LIiqszQM/iyIqrM0ocd3kyWE9ubElMK0ltTlBHM0xXVDZOaytiaC9rPVonIiX/////AAAAB/tKLzRpWmlZTFN6anFaZVlNL3U2K2l5dFJ4S2c9ZUfdTADCPgJgBRK1AQgaErABChwvUC9MU1JMTVV5TWhpMG9WV0xRYVRFR01SS2c9EiQ1MmNkMzdlYi0xZWMxLTQ0ZGEtYTk4Yi01YmM1MGZmZjUzYjEYACAAKAAwy4PBo5AyOMWEwaOQMkDFhMGjkDJKHHlWcm5NWDYyWlkzV0FYNFV1cGhrSDVJdzZQOD1aJyIl/////wAAAATZYWJmRHRhdTd4b1AwZ1JHa3ZJcmRyenhBWjNFPWW8aNgZwj4CYAUStQEIGxKwAQocZFROM2tvcktPTWJ4WFNaK2JFcTFOc3VDc3pRPRIkYzFmN2ZjZjctMzg2Yy00OGYyLWEwNjktYTNmNTlhZjgxYmE4GAAgACgAMJKekbqUMjjMn5G6lDJAzJ+RupQyShwwTnFYRWM3OXNrNmFqcmdvMjl5Ri9pMzdoVkk9WiciJf////8AAAAE7G1sVVk1TTBFaHppZWE0NTVYdzB1ZE1BRVpIOD1loytZI8I+AmAFErQBCBgSrwEKHGZRTU80Nkp3V091aWFKc0RzWngyQi83cXhlTT0SJDk3OWFlN2FkLTBiYjctNDczMy04YmE2LTQ3ZDYzODlmYjMwYxgAIAAoADDNvf/dgTI4gr7/3YEyQIK+/92BMkocWmFoTW93SENvSi9lcEtHWnlSQ2p4T0NTMEVJPVomIiT/////AAAABGVKdnN2VVVzczFuR1h5VDdhVUdUd2tMK3R5RT1ltuJ7+sI+AmAFErUBCB4SsAEKHFc5UjR3VlhJOHVHMm0wSkJsKzh2L1ZpbXQxVT0SJGIxODkwYzE5LTY4ZGEtNDVkNy04NTM3LTQzMzdkNzM1ZTQxMBgAIAAoADDyrdXZyzI49a/V2csyQPWv1dnLMkoceWdjK0JzUEFUWDNOMDlZcGRnQ1JBa1ZWS200PVonIiX/////AAAABP1VZDZBS1hiUm9nK1VtdGtYaHRVbndUait6UG89ZQZPpDrCPgJgBRK1AQgfErABChxyR01NYmFxOEg4UmJKVzRWcGg2QnBrK3dKNzA9EiQ1ZDIwYWFkNC1lOWVmLTRlMzItOGQ5OS0xYTQ3ZDY5YWVjMWMYACAAKAAw1M+0zs8yOMjStM7PMkDI0rTOzzJKHG83clVmRlc1VGYzd2c0cks1dDlDMTgwRFNQRT1aJyIl/////wAAAAT+d2U2T3FFbk5yZWVMZnJ2SGY0bHoyNHdUTTJZPWVRf1/0wj4CYAUStAEIIBKvAQocZ1NTRFVLWlUzTXJCbmNrYk9YdnU5b3lJeHo4PRIkYTk4ZWE0ZTctNTAyMC00MjFjLTlhMTItZjI2YTY0MTQwZDg3GAAgACgAMLah8c7PMjjSo/HOzzJA0qPxzs8yShxwaTV5eWQrRWVsWGNZNm00ZDVEc3pGTkowcFk9WiYiJP////8AAAAFUHI4REpJYmlmdmZJTG9nTWJjQ1gwYUJhRUNJPWW+l2zlwj4CYAUStQEIShKwAQocaGRPM0hSMnhidGZvbDhuQnZIUnh1MFUxd3JFPRIkMTM5NmE4YmMtMjQ3OC00NDQ2LWJiYTUtNGUxNjNiYWFiOTIwGAAgACgAMM3hiMDBMzik5IjAwTNApOSIwMEzShwrN3U3aG81WWpYUUFFZmZyQ1JQOU5lOEduMGs9WiciJf////8AAAAI90RzbnhaWnhOZFZYcTZZQ1p4V3NNN21paGJCaz1lAAAAAMI+AmAFErQBCCESrwEKHDFScW1tclhtNXl6aG9iRjZiWFhvdTlJQVJTUT0SJGIxNDRlYjExLTNhMDUtNGI2MC04YzIwLTkzYWY2NTIyYzI0MRgAIAAoADCLuauu2DI4+L2rrtgyQPi9q67YMkocTGdiOEFUWmtCenhEdEs0a3p5RXFLSWRrSmN3PVomIiT/////AAAABWVDbHFzdjh6MlFTalc1K3R4S3hWcUpESlU3dz1lWaYB9cI+AmAFEq0BCCcSqAEKHE5wWWoyUkZxaW44dk80SVh0amY0TGJvSWFSYz0SJDI4MGRhN2RiLTM2ZGItNGJkZi1iMDBlLTM0ZWU0ZDkwMWNjYhgAIAAoADCszbT73zI4tdK0+98yQLXStPvfMkocTkRyM0p4R0xIcE5VdktHYnh4cHpab2RjcVlVPVofIh3pbEdOaUdaODIwZzZNZ0E5cXVIM2Mrd3RXdDBFPWXu3zYMwj4CYAUSrQEIKBKoAQocRGZFMkRmc09kSGFnaUl5dnI0dkdZM2l3dnpnPRIkYTY2YWZiNjAtYjI3NS00ODI0LWE2ZWUtNTQ5ZmYzNzFhNzgyGAAgACgAMMSLv/vfMjjJj7/73zJAyY+/+98yShxBTThBZ0Mrd3pRaG91RVVQMmhxTWJmMlJ3OVU9Wh8iHfRGdGhJZE9oRE1QL3FpQmpaQlFJem10TDhpYnM9Ze7fNgzCPgJgBRK1AQgiErABChxKR3FUcWdzaml4V2VTNFhPS0xMOC9kUG42d1U9EiRiNzU5YjNkOC1mNGNlLTQxMTctOGE3YS1hNjBmNjRlOWQ0Y2MYACAAKAAw9durrtgyOObdq67YMkDm3auu2DJKHGdGaTd6bUpEUEwwSE0wTDR3Sm1raEFXZzhHbz1aJyIl/////wAAAAWyTXIzSGtWd0dad3hKMWs0emp0R2h4YVNXVDZBPWU+J8tEwj4CYAUSrQEIChKoAQocU2RZZXpzclc5L1pGN0drVzhDeUV4LzZqbzJvPRIkOTZlMzVlNzgtNWJjNS00NWE4LWE4ZTMtNTE0ODdmYzU2Mzk4GAAgACgAMLaOw6KuMzic1orxszFAnNaK8bMxShx2TDRUTzVMcG1VSjdoMElpOG43cGRkTVJMYWs9Wh8iHf9yTzdlcVNwSlpCUWQ3YWF6eDRjU1lEZ3RSL1k9ZQAAAADCPgJgBRK0AQhGEq8BChwyVmtNSEpzUTVuWTV2WnQySjkxS0E0ZlI2M1E9EiRmZTE1MzMxMi01OThmLTQ4YzMtOGU3MC1jMGI2ZTUwZmU4ZTQYACAAKAAwpb2Ju7gzOMqiibu4M0DKoom7uDNKHE1GSzZQV1RnZm1DV3NqaUtrSWp0MlpaSGk4TT1aJiIk/////wAAAAhwZVVtTnJQaDhCYVEwd3dUTUNTd0lNVEdBSzQ9ZakxBcLCPgJgBRKtAQgmEqgBChx0aTdvdFI0aEhkOGxZOVprN1NRTGU5OWRuZFE9EiQzYWZjNDU3Mi03YzcwLTQzZGMtYjAyNS0yOWQ5ZDBiOWZjMzAYACAAKAAw6paNv9kyOKKZjb/ZMkCimY2/2TJKHHpWdXJsR0F5OVBiNzhsRHdndnoxMTRHUGp3UT1aHyId0jEvNysvVi8xNFJBRFZKQmh4cm53SU5HS1lxYz1lUDAh2cI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDliMjE0MWJlLWJkMjktNTkzOS05ZTc1LWEzMGFkYTA4MTc3ORgAIAAoADC4m4r0rzA4yKCK9K8wQMigivSvMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKtAQgpEqgBChxybW5HcDZFZEJLN1ozbzhseDNtUFg0Szlpdm89EiQyNjg1YTQ4NS1kMzE3LTQyODQtOGU1MC04YzRiODRjMTI2NWQYACAAKAAw/NCF/N8yOJTVhfzfMkCU1YX83zJKHDFYaTJrd1VSVkcyaGZXbHBjTC8rcW9lS2ZBYz1aHyId+m5DUWltQXZ3OXdDYzhDc3BxR250OVFiRkRQYz1l7t82DMI+AmAFErUBCEkSsAEKHDlnYVU2NXBwRmRlNUxsd3BQTEU1SDZBTEwzaz0SJDFjODUyZjFmLTg3YWQtNGRiMC1iZjk4LTBiMjUwOTMxNWY0NxgAIAAoADCWmfzevTM42Z383r0zQNmd/N69M0ocZzZjWTI3cEV5TkkzcVZTN3Jla1REV3JUeU5FPVonIiX/////AAAACO5PTzBHRmg1RlQzUHhZNkpmaGQwaUJGOEdmbGM9ZREoA//CPgJgBRKtAQgqEqgBChw4N1lyTUE5ZVlCZEszSWhZeEdXbkJ3YjFVQVE9EiQ0ZDk5MjIwZS00YmQ0LTRmNmUtOTJmNy1hZGFjZTczMmIwYmEYACAAKAAwu/OH/N8yOKH3h/zfMkCh94f83zJKHFErQmVXR0tCR0Z4WmoraENYSWJRV3orTjJYVT1aHyId/WZaZUFlM3VHaDdpaDErSlhLSSs2eGxycktUcz1l7t82DMI+AmAFEq0BCCsSqAEKHHhvMVBTRFJSV2kwbmlENTVtbG0vL0hPdUoyRT0SJGRjMWMyNWI3LWYxNzctNGQ5NC1hZDE2LThiNDBjYzBjNGVjMxgAIAAoADDPp/q24DI4uav6tuAyQLmr+rbgMkocT0VpUkVFMTZvd0FRS2czUEg4dnlJUThhOFlvPVofIh3+VWIvYjBKRERlUU95dWd5V0tFUC9pVFlQMkZRPWUAAAAAwj4CYAUSrwEIDRKqAQocLys4eEtueXJycFBxRjRjT3VxVUJpSzNLcVZVPRIkYzliNTEzOTctNWIxMy00ZjAwLTk4NjgtMzIwNTg2ZjRmMGZiGAAgACgAMLOOw6KuMziy4b3HzzFAsuG9x88xShwxVXdPRkRpcmYxRm5YMnBUU1BPbUpCbkIxZFU9WiEiH///uFNyYnRiR1BZbG1WcFR4YUpmMUlmVU9Nd1JEST1lVdbaRMI+AmAFEq0BCC8SqAEKHHltZ2NyT1o4VWk0NWFXbjZiQ1NyeFV4RDhCQT0SJDM3NWFjMTE3LTVlOWQtNDlmYS1hMzVmLTgzZjZjZDMxZGMxYhgAIAAoADC+8uXwrzM41cbFz+4yQNXGxc/uMkocdFU1TzBuS0toenBZZTR2dUU3WkxSd1JpSXowPVofIh3/d3JTVWF4bjVibGFWeDFRWVVjaU9ndldrYmk4PWWhThR5wj4CYAUSrQEILRKoAQocMlV6Mmhhbm9DWXFtVGRWMUZVT2c5ZmRtWGxFPRIkOTBiZWQwMzYtMTI2ZS00NGQ5LThmZmMtMzdmNzQ3NzljYmYzGAAgACgAMOHdttzhMjif37bc4TJAn9+23OEyShxTb0kvZzg1dDIvNmt6MGtwbW11eU5VeG5zYkU9Wh8iHf9ZRk9KTGdFVlVBa21tTjVzUm14eENZaUhQYkU9ZccOSRLCPgJgBRK0AQgWEq8BChxscTUwOHM2M2RzYS9UU2MwWjhwdk1qRTd2NTQ9EiRhMjI1ZWI0ZC1lMzg5LTQzMmEtOTkyYy01OTdlNTU1NjMwNTIYACAAKAAwvf+b2PIxOK6BnNjyMUCugZzY8jFKHDFrVmZDVUZYU1BEeWdRN25pM1B4aWJ6b1hXWT1aJiIk/////wAAAARBamw0bm5BQURnM1F1RlBSazVkNVJ6ZnVGajA9ZYnD7PjCPgJgBRK1AQg3ErABChw2OWFheUtaQ0c3diszU1pGVlg1THdNdUQ3aDA9EiQ4MjVlOTAxZS0wMWU2LTQzY2UtODBlNC05MGYwZTBlMDg5ZTYYACAAKAAwo9/suPwyOKbi7Lj8MkCm4uy4/DJKHDNNOTIzWTNIU3ViRDg0S1lLb2xGMDMxYmFpVT1aJyIl/////wAAAAbadm0xK2R5M25SRWwreWp3T3lSSEd0WTdPZU9ZPWWWzAJ2wj4CYAUStQEINhKwAQocaHRkOVV3Y01xbHJleks4WXhyUDB5T3VWbjEwPRIkMGQ5YTgwMjgtYzRkYy00NWE2LTgzOGQtMTc0ZjhjZTkxNGI0GAAgACgAMNjc6bj8Mjjn3um4/DJA597puPwyShxUWUFzTG9RWWFkYmpNUzNjN3A4VEJZZVhibEk9WiciJf////8AAAAGtUFpRWhtRXUyRkRld004WVlmc0ZUZVcrb1lmQT1lUXZFT8I+AmAFEqwBCCQSpwEKHHJhOVltRTdqaS9EcVBCbVNNS0ZhKzJWMnZ0ND0SJDUxNWQ2ODIxLWQyZTMtNDRkNi04MDQzLWZjNTk0NDNmZDE3NhgAIAAoADCL6YW/2TI40diEv9kyQNHYhL/ZMkocSTBxMkVSME83NjMrVmplWlNGSjBnaVVidCt3PVoeIhxLVDkybG8yN0lPMHYzNEFHMnJwMEN5RGNkaUk9ZRAw/+TCPgJgBRK0AQg9Eq8BChxLV0dkUWZwQUJMVkRNb0VNMWZTQzVKZm5XNWc9EiRiNGRhYmNmOS05YzY2LTQ1YWMtODQyNi04YTIwNDVmMDAzNWIYACAAKAAwn+Hxg6IzOOPr8YOiM0Dj6/GDojNKHEhENHloa1g4Tm9Fdm1TUUVFYXREVVRORkw4TT1aJiIk/////wAAAAc0a2o1LzBMMDFVVzQ0K2pTeW5NOEU2RnZ2WFk9ZYPGukLCPgJgBRK1AQg/ErABChwvVHBKRFZtcnZTVlVFc0pJNk95TlRBa3FzR2s9EiRiN2FkZTZkYy03YmQyLTQ3NjAtYjU5OS0xYTQ2MGE0NzM5ZDMYACAAKAAwi5zAyqIzOP6dwMqiM0D+ncDKojNKHG1DTE1yckhKbzducndlKzE3Ly9IN0k2NzJjaz1aJyIl/////wAAAAe3Q3ZNUENyRDl2dW16UXZXaFpiRU9kUFBEOTVJPWV8H7olwj4CYAUStQEIMhKwAQocUHZYbkdzMStwejRYT0FmNXFwYW1DZWMvdXVnPRIkODQ1NWNjMDYtOTQ2MS00MDVhLTk2NjgtZGFiYjRjY2Q4YmM2GAAgACgAMLqX8ZL4MjjcmfGS+DJA3JnxkvgyShxFMmFIS0tMQlZHQnVzS1BGaFFsSzBaSmRKc1E9WiciJf////8AAAAF/itYeVo0S1lTa2twRGJ2ei9ZOHlqenc0MFpyST1liDyIJsI+AmAFErQBCDQSrwEKHEc4YWJaWm93bHR6d1JLbHQ1ZHZTVkFJSFphVT0SJGJmYTcxMzYwLWYzODMtNGNjNS1iZjY1LWViMjcyNDRiMTUzORgAIAAoADDOo4zD+jI4jKaMw/oyQIymjMP6MkocTkpHa2RmcVZMMFVMQUUvam9oQzBqMldDd3hvPVomIiT/////AAAABkZaOTA5Tkx0T2UzUDNvUUZPMmFZRXF1YUc0OD1l4KrMq8I+AmAFErUBCDESsAEKHFd2L1d6K081OXFSODlIUjh6L2E5Y0d6eTFmZz0SJDA4OTlmYzVkLTAwNjctNDQ5YS04MGNmLWY1MTY2Mjc3ZmNjMBgAIAAoADCLh7/o8TI4r4m/6PEyQK+Jv+jxMkocK1NCOXIvclBMeXhQUXBGdzNETDAvdEpSdFFJPVonIiX/////AAAABf1zSm9yZ3ZwS0N5RWFLdmZ1S1o5bEx4eEwvQU09ZdkYTzfCPgJgBRKvAQgREqoBChwydEpoNVdlaTR1bVRyOHZQTnBwT1J3YWJtdjg9EiQ0NmJmZTc5YS02YzdkLTQ3OTktOWFjOS04YzBmYjFiODM3YmMYACAAKAAwsY7Doq4zOJ69rZPaMUCeva2T2jFKHGlmKzBJWnNXdENpRGpJSUdGVnBtdE9CdVFncz1aISIf////enBXOEc2TmcxYTdyOHd3ZGNZY2Iwa2h1ODM0PWUAAAAAwj4CYAUStAEIMxKvAQocUEU2UHR4U0RBbmlWK21TUjhSWWVxQi84THJjPRIkNTU0MWFkZjYtNWM0Yi00NGU0LWEzMzgtMDgzNzhjMzRkODU5GAAgACgAML3y5fCvMzj1vaPB+jJA9b2jwfoyShxyNjhucCtWWjQwL0RoT0pKVFFvUXpUNDVxOFE9WiYiJP////8AAAAGM0U2SldJNXNRaTZrUUE3eUc1bzRiQzZSRlQ0PWWhThR5wj4CYAUSrQEIJRKoAQocL1U0aDZNaC9ON1pFRTdHa2pwWEFYM3UrcFg4PRIkM2VkYWZmZTUtM2NhZS00ZDFiLThjODUtOTJjMTNlZWQzMmZiGAAgACgAMKyghr/ZMjiB8f++2TJAgfH/vtkyShxOcVBQaDQzM3NiSFlVZldqcGZVN3NucmRTRzg9Wh8iHaVHNE13aXN4T29GOFN5dGxraWtqZjlNL1VJZjQ9ZYghYZbCPgJgBRK1AQhFErABChxjYjlwdlE5RElQa1lBMDNGVi9IQmNHVVk4cHM9EiRmYzQyYTE2Zi1jZmZiLTQ2MmItOWQyYy03OThlNWM0NjI3MWQYACAAKAAwntvY2LYzOJfd2Ni2M0CX3djYtjNKHE9BSStUd0lCYVY2ckkzajJTOUlOU2pwQ3VLOD1aJyIl/////wAAAAf+b2kzWHZ6SEQyVWRGTHBIMS9zZFBpVTJFZXUwPWUAAAAAwj4CYAUStAEINRKvAQocTWpBblFCODUwdURrZU5GM1h6cFZsS1Q3QXA4PRIkZDRkNDYwODEtMDVmZC00NWQ3LTlhYjUtMmUzODZlNTA5YTAzGAAgACgAMPaDyqSsMzjW1+i4/DJA1tfouPwyShw5MGZRV3dtNklKb0hyajk1RHJjTGNMMjV6VzA9WiYiJP////8AAAAGakV4OE1DamoyMjBHblZ5WnUxT08vYjZNaG9VPWX08Esowj4CYAUStQEIORKwAQocMGxuOHluektFRlpHaXlrYi8vR1NKQmNXUFlRPRIkYTRlZjU3MjktOWZjZC00ZDNiLTliODUtMjA1ZWI4MjA0ZTA4GAAgACgAMMmqyqSsMzjKo/G4/DJAyqPxuPwyShxsaUJpTXd1bzNDR1FGQVg0U1F3U1c0Q2h5SEk9WiciJf////8AAAAG9kQzT3l0QjdTSDUzMTFVRm1WcFlUbVNlNThZbz1lAAAAAMI+AmAFErUBCEASsAEKHHduOW40c1lkL1RzemZRaUowaXVMQ0laWlpDWT0SJGU2MTZhZGE0LTIyOTItNDRmMC04NTdmLTNiMmIzYzdlM2E1NhgAIAAoADCcr9XKojM42bTVyqIzQNm01cqiM0ocMzBFVUEyQTlxcTl5amgrTU41cEYySHVMQWdJPVonIiX/////AAAAB9trOExXdzM5eURtb3JJV2RjcGlpbzN6TEVQRnM9ZaHwAc/CPgJgBRK1AQg8ErABChxjZmp0aWowYlQ3UmpoOE5MQmFhUkRpUnRTK1k9EiQwMTc1ODBjYi03N2ZiLTRjNWUtYjE2ZC01YmRiNTljOGZhYmYYACAAKAAwp5nYg6IzOJad2IOiM0CWndiDojNKHE54U3pMWmZEWDVOekE4aFpwcUhtckJZNGpRYz1aJyIl/////wAAAAb+dFVnOGt0dm9QMUVCS3JDZkpsUi9nbXJOVE9ZPWVAqYl0wj4CYAUStQEIRxKwAQocTFo0SVRCVlhiV1VLYzl6L2w4M3RPbk5GMjBJPRIkNTY2N2U1MmMtMDYzOC00NDFkLWI0NmQtN2VlNzFlNWUyMGI3GAAgACgAML62gci5Mzilu4HIuTNApbuByLkzShxRYXhFSzRPRkVTaFZRc1BDTTdpVVpvbGczZlE9WiciJf////8AAAAIuG9RNHhHTjhMNTg1N1hJMFFaVE1YQ2NPZEFnbz1lQ/htgMI+AmAFErUBCBwSsAEKHFN3NXM1ZTg1WVZ3TW5BWS9rTlVqNlpxNWRLST0SJGQzZTI2OTI5LWMxMWMtNDNhYS04YWFmLWRhYzk2MThlYzQ2YxgAIAAoADDQ5syMlTI4k+jMjJUyQJPozIyVMkocV1ZJN1N3bGNRd0MwblNaL1lOaTdwb2tpVzZBPVonIiX/////AAAABPZ6TjZXc01xZStJaUY2blhVbVJEQ2hTUjBTeVU9ZTuny0TCPgJgBRK0AQg+Eq8BChxCRnpMOWYrbkc2c2tsT0krWStkTGljYVlkd1U9EiQ5MGIyNjJiMS0yYzRlLTRiZTItOTZmNy00NzkxNzY1NmRjOGUYACAAKAAwkPm/yqIzOJj/v8qiM0CY/7/KojNKHENTSUlIVGFjOVBwOEwzL3Y5OEpHQlhoY3hzST1aJiIk/////wAAAAdvUGtKZGJKV242VitwVFhNUWpsais1UmE0cnc9ZQvTKxLCPgJgBRK1AQhLErABChxQdi8xMGJFMUxYc3Bqc0M0S09FWHd4U05jNVE9EiQyOTUwMDc5OC1mMTVmLTRmMWItOTA2NS1mODY1MzdmOGY4OGYYACAAKAAwzuGIwMEzOLvkiMDBM0C75IjAwTNKHDdJZk9XMm1ORElSM2xqZDNCQ0lLczF3eFY2MD1aJyIl/////wAAAAj7dzhhWHlsUnlCMW40VUQ4YnVMTkNQTzE3RmI0PWUAAAAAwj4CYAUSjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNTRiZDk1MjQtNjA5NC01NGI1LWE0NTEtNzViYzQ4MzhlNjZiGAAgACgAMLibivSvMDjtnor0rzBA7Z6K9K8wShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAErUBCE0SsAEKHDRmdkI3Rml6ZSs0MlJhSzBaNVJKS2g1UUxxcz0SJDIxZDJkM2I2LWY0YzMtNGIyOC1hNjA1LTYyZTI2YmI2OGQ2MhgAIAAoADCK7ufIwjM40/DnyMIzQNPw58jCM0ocbnVzM0FIWTdReG1OekpiRU5BRk1lN1JUdHpBPVonIiX/////AAAACP5lcU8wMEVJc3lLZmh4VjJlZkVJMjJlSkRiTEU9ZYVn7Q/CPgJgBRK1AQhEErABChxaNVpCSTd3SUpQQWp0UStZTjdMbVR6aG10QVk9EiRhMDI5MmU4OC1iYTFiLTQ4ZDItYmQxZi1kOTExMDk3NGJkZjAYACAAKAAwz+XO2a0zOOvxztmtM0Dr8c7ZrTNKHC91NmhIeXZ6WEdOVkNwY0FYL1RiZnlvS29hdz1aJyIl/////wAAAAf9SlJsZDBoK3RwMklwcEFwTStWNjZEVllVazJFPWWVqAojwj4CYAUStQEITBKwAQocN0pKTjVialVsbGVPNElvc3lHdlhEd1Q0STIwPRIkN2I5OTA3ZDgtMGZjNi00MjZhLWFhOGQtNGY3ZDlkYmM4ZGM3GAAgACgAMM/hiMDBMzjQ5IjAwTNA0OSIwMEzShxsS2pENWxzMFV6Q2xEaXVaNHhTa0FDcHY5dE09WiciJf////8AAAAI/VV2TERvQUROSUFsZ21QYXlIbktoZ09hRlRuUT1lAAAAAMI+AmAFErUBCEISsAEKHG5kTUtnelAwN1RYaHFzT3RHZUY1Z1l3eEM0cz0SJDgwYTc5M2U0LWY1ZjEtNDFlZC05YmEwLTZkY2JkNmQwOTYyMxgAIAAoADCXltDmqDM40JzQ5qgzQNCc0OaoM0ocNkRodDhEUzdHNVhtTkNFdnlhRGcrZFB5V3AwPVonIiX/////AAAAB/ZuTTZrVkVqOHFncTE0VkNJSldBMDBqY2VvVlk9ZT/ZsbrCPgJgBTAAOAA=",
+   "version": 1
+}

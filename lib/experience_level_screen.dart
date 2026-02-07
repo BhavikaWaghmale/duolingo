@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
 import 'services/api_service.dart';
-import 'plan_selection_screen.dart';
 import 'course_building_screen.dart';
 
 class ExperienceLevelScreen extends StatefulWidget {
   final String selectedLanguage;
   final int onboardingId;
-  
-  
+
   const ExperienceLevelScreen({
     super.key,
     required this.selectedLanguage,
@@ -22,13 +20,20 @@ class _ExperienceLevelScreenState extends State<ExperienceLevelScreen> {
   int? selectedIndex;
   bool isLoading = false;
 
-  final List<String> levels = [
-    "I'm new to French",
-    "I know some common words",
-    "I can have basic conversations",
-    "I can talk about various topics",
-    "I can discuss most topics in detail",
-  ];
+  late List<String> levels;
+
+  @override
+  void initState() {
+    super.initState();
+
+    levels = [
+      "I'm new to ${widget.selectedLanguage}",
+      "I know some common words",
+      "I can have basic conversations",
+      "I can talk about various topics",
+      "I can discuss most topics in detail",
+    ];
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -49,8 +54,9 @@ class _ExperienceLevelScreenState extends State<ExperienceLevelScreen> {
                       value: 0.35,
                       minHeight: 6,
                       backgroundColor: Colors.grey.shade300,
-                      valueColor:
-                          const AlwaysStoppedAnimation(Color(0xFF58CC02)),
+                      valueColor: const AlwaysStoppedAnimation(
+                        Color(0xFF58CC02),
+                      ),
                       borderRadius: BorderRadius.circular(10),
                     ),
                   ),
@@ -64,22 +70,18 @@ class _ExperienceLevelScreenState extends State<ExperienceLevelScreen> {
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Image.asset(
-                    "assets/images/bird4.jpg",
-                    height: 70,
-                  ),
+                  Image.asset("assets/images/bird4.jpg", height: 70),
                   const SizedBox(width: 12),
                   Expanded(
                     child: Container(
                       padding: const EdgeInsets.all(12),
                       decoration: BoxDecoration(
-                        color: Colors.white,
                         border: Border.all(color: Colors.grey.shade300),
                         borderRadius: BorderRadius.circular(12),
                       ),
-                      child: const Text(
-                        "How much French do you know?",
-                        style: TextStyle(
+                      child: Text(
+                        "How much ${widget.selectedLanguage} do you know?",
+                        style: const TextStyle(
                           fontSize: 16,
                           fontWeight: FontWeight.w600,
                         ),
@@ -96,18 +98,16 @@ class _ExperienceLevelScreenState extends State<ExperienceLevelScreen> {
             Expanded(
               child: ListView.builder(
                 itemCount: levels.length,
-                itemBuilder: (context, index) {
+                itemBuilder: (_, index) {
                   final isSelected = selectedIndex == index;
 
                   return GestureDetector(
-                    onTap: () {
-                      setState(() {
-                        selectedIndex = index;
-                      });
-                    },
+                    onTap: () => setState(() => selectedIndex = index),
                     child: Container(
                       margin: const EdgeInsets.symmetric(
-                          horizontal: 16, vertical: 6),
+                        horizontal: 16,
+                        vertical: 6,
+                      ),
                       padding: const EdgeInsets.all(14),
                       decoration: BoxDecoration(
                         color: isSelected
@@ -117,7 +117,6 @@ class _ExperienceLevelScreenState extends State<ExperienceLevelScreen> {
                           color: isSelected
                               ? Colors.lightBlue
                               : Colors.grey.shade300,
-                          width: 1.5,
                         ),
                         borderRadius: BorderRadius.circular(14),
                       ),
@@ -125,9 +124,7 @@ class _ExperienceLevelScreenState extends State<ExperienceLevelScreen> {
                         children: [
                           Icon(
                             Icons.signal_cellular_alt,
-                            color: isSelected
-                                ? Colors.blue
-                                : Colors.grey,
+                            color: isSelected ? Colors.blue : Colors.grey,
                           ),
                           const SizedBox(width: 12),
                           Expanded(
@@ -136,9 +133,7 @@ class _ExperienceLevelScreenState extends State<ExperienceLevelScreen> {
                               style: TextStyle(
                                 fontSize: 15,
                                 fontWeight: FontWeight.w600,
-                                color: isSelected
-                                    ? Colors.blue
-                                    : Colors.black,
+                                color: isSelected ? Colors.blue : Colors.black,
                               ),
                             ),
                           ),
@@ -160,52 +155,38 @@ class _ExperienceLevelScreenState extends State<ExperienceLevelScreen> {
                   onPressed: selectedIndex == null || isLoading
                       ? null
                       : () async {
-                          setState(() {
-                            isLoading = true;
-                          });
+                          setState(() => isLoading = true);
 
                           try {
-                            final response = await ApiService.saveLevel(
+                            await ApiService.saveLevel(
                               onboardingId: widget.onboardingId,
                               level: levels[selectedIndex!],
                             );
 
-                            if (mounted) {
-                              // Show success message
-                              ScaffoldMessenger.of(context).showSnackBar(
-                                const SnackBar(
-                                  content: Text('Data saved successfully!'),
-                                  backgroundColor: Colors.green,
-                                ),
-                              );
+                            if (!mounted) return;
 
-                              // Navigate to Course Building screen
-                              Navigator.pushReplacement(
-                                context,
-                                MaterialPageRoute(
-                                  builder: (_) => CourseBuildingScreen(
-                                    selectedLanguage: widget.selectedLanguage,
-                                    count: 100, // Placeholder count
-                                    onboardingId: widget.onboardingId,
-                                    selectedLevel: levels[selectedIndex!],
-                                  ),
+                            Navigator.pushReplacement(
+                              context,
+                              MaterialPageRoute(
+                                builder: (_) => CourseBuildingScreen(
+                                  selectedLanguage: widget.selectedLanguage,
+                                  selectedLevel: levels[selectedIndex!],
+                                  onboardingId: widget.onboardingId,
+                                  count: 100,
                                 ),
-                              );
-                            }
+                              ),
+                            );
                           } catch (e) {
-                            if (mounted) {
-                              ScaffoldMessenger.of(context).showSnackBar(
-                                SnackBar(
-                                  content: Text('Error: ${e.toString()}'),
-                                  backgroundColor: Colors.red,
-                                ),
-                              );
-                            }
+                            if (!mounted) return;
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(
+                                content: Text(e.toString()),
+                                backgroundColor: Colors.red,
+                              ),
+                            );
                           } finally {
                             if (mounted) {
-                              setState(() {
-                                isLoading = false;
-                              });
+                              setState(() => isLoading = false);
                             }
                           }
                         },
@@ -213,21 +194,12 @@ class _ExperienceLevelScreenState extends State<ExperienceLevelScreen> {
                     backgroundColor: selectedIndex == null || isLoading
                         ? Colors.grey.shade300
                         : const Color(0xFF58CC02),
-                    disabledBackgroundColor: Colors.grey.shade300,
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(14),
                     ),
                   ),
                   child: isLoading
-                      ? const SizedBox(
-                          height: 20,
-                          width: 20,
-                          child: CircularProgressIndicator(
-                            strokeWidth: 2,
-                            valueColor:
-                                AlwaysStoppedAnimation(Colors.white),
-                          ),
-                        )
+                      ? const CircularProgressIndicator(color: Colors.white)
                       : const Text(
                           "CONTINUE",
                           style: TextStyle(

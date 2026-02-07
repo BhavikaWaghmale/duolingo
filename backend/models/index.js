@@ -1,14 +1,11 @@
-const sequelize = require('../config/database');
+import sequelize from '../config/database.js';
+import OnboardingModel from './onboarding.js';
 
-const User = require('./user')(sequelize);
-const Onboarding = require('./onboarding')(sequelize);
+const Onboarding = OnboardingModel(sequelize);
 
-// Relations
-User.hasOne(Onboarding, { foreignKey: 'userId' });
-Onboarding.belongsTo(User, { foreignKey: 'userId' });
-
-module.exports = {
+const db = {
   sequelize,
-  User,
   Onboarding,
 };
+
+export default db;

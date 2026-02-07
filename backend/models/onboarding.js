@@ -1,41 +1,27 @@
-const { DataTypes } = require('sequelize');
+import { DataTypes } from 'sequelize';
 
-module.exports = (sequelize) => {
-  return sequelize.define('Onboarding', {
-    id: {
-      type: DataTypes.INTEGER,
-      primaryKey: true,
-      autoIncrement: true,
+export default (sequelize) => {
+  return sequelize.define(
+    'Onboarding',
+    {
+      id: {
+        type: DataTypes.INTEGER,
+        primaryKey: true,
+        autoIncrement: true,
+      },
+      language: {
+        type: DataTypes.STRING,
+        allowNull: false,
+      },
+      level: {
+        type: DataTypes.STRING,
+        allowNull: true,
+      },
     },
-
-    selectedLanguage: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
-
-    experienceLevel: {
-      type: DataTypes.STRING,
-      allowNull: true,
-    },
-
-    learningReason: {
-      type: DataTypes.STRING,
-      allowNull: true,
-    },
-
-    preparations: {
-      type: DataTypes.JSON,
-      allowNull: true,
-    },
-
-    dailyGoal: {
-      type: DataTypes.STRING,
-      allowNull: true,
-    },
-
-    userId: {
-      type: DataTypes.INTEGER,
-      allowNull: true,
-    },
-  });
+    {
+      tableName: 'onboarding',
+      freezeTableName: true,
+      timestamps: false,
+    }
+  );
 };

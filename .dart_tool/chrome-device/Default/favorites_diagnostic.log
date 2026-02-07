@@ -91,3 +91,149 @@
 2026-02-07 14:19:57.575: [INFO] BookmarkNodeAdded, ABU: 0
 2026-02-07 14:19:57.575: [INFO] BookmarkNodeAdded, ABU: 0
 2026-02-07 14:20:06.365: [INFO] Sync initialization duration: 11436ms
+2026-02-07 14:43:31.897: [INFO] VisibilityChanged: 0
+2026-02-07 14:43:31.969: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 14:43:31.970: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 14:43:31.970: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 14:43:31.970: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-02-07 14:43:31.970: [INFO] OnDoneLoading sync enabled: 1
+2026-02-07 14:43:43.139: [INFO] Sync initialization duration: 1259ms
+2026-02-07 15:38:28.087: [INFO] VisibilityChanged: 0
+2026-02-07 15:38:28.171: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 15:38:28.172: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 15:38:28.172: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 15:38:28.172: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-02-07 15:38:28.172: [INFO] OnDoneLoading sync enabled: 0
+2026-02-07 15:38:31.450: [INFO] Primary account changed.
+2026-02-07 15:38:31.450: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-02-07 15:38:34.716: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.716: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.716: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.716: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.716: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.717: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.717: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.717: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.717: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.717: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.717: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.717: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.717: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.717: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.718: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.719: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.719: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.719: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.719: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.719: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.719: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.720: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.720: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.720: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.720: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.720: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.720: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.720: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.720: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.721: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.721: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.721: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.721: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.721: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.721: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.721: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.722: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.722: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.722: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.722: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.722: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.722: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.722: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:34.722: [INFO] BookmarkNodeMoved
+2026-02-07 15:38:43.664: [INFO] Sync initialization duration: 15482ms
+2026-02-07 16:00:34.083: [INFO] VisibilityChanged: 0
+2026-02-07 16:00:34.185: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 16:00:34.185: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 16:00:34.186: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 16:00:34.186: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-02-07 16:00:34.186: [INFO] OnDoneLoading sync enabled: 1
+2026-02-07 16:00:45.751: [INFO] Sync initialization duration: 1693ms
+2026-02-07 16:22:39.907: [INFO] VisibilityChanged: 0
+2026-02-07 16:22:40.003: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 16:22:40.003: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 16:22:40.003: [INFO] BookmarkNodeAdded, ABU: 0
+2026-02-07 16:22:40.003: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-02-07 16:22:40.003: [INFO] OnDoneLoading sync enabled: 0
+2026-02-07 16:22:43.722: [INFO] Primary account changed.
+2026-02-07 16:22:43.722: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-02-07 16:22:47.144: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.144: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.145: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.146: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.147: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.148: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.148: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.148: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.148: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.148: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:47.148: [INFO] BookmarkNodeMoved
+2026-02-07 16:22:55.637: [INFO] Sync initialization duration: 15630ms

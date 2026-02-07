@@ -1,47 +1,75 @@
+console.log('🔥 index.js started');
+
 import express from 'express';
 import cors from 'cors';
+import dotenv from 'dotenv';
+
+import db from './models/index.js';
+
+dotenv.config();
 
 const app = express();
 
 app.use(cors({ origin: '*' }));
 app.use(express.json());
 
-// STEP 1: Save language
-app.post('/api/onboarding/language', (req, res) => {
-  const { language } = req.body;
+/* 🔗 CONNECT TO POSTGRES */
+await db.sequelize.authenticate();
+console.log('✅ PostgreSQL connected');
 
-  if (!language) {
-    return res.status(400).json({ error: 'Language required' });
+/* 🔨 SYNC TABLE */
+await db.sequelize.sync();
+
+/* =========================
+   SAVE LANGUAGE
+   ========================= */
+app.post('/api/onboarding/language', async (req, res) => {
+  console.log('🔥 LANGUAGE ROUTE HIT:', req.body);
+
+  try {
+    const { language } = req.body;
+
+    const onboarding = await db.Onboarding.create({
+      language,
+    });
+
+    console.log('✅ ROW INSERTED:', onboarding.toJSON());
+
+    res.status(201).json({
+      onboardingId: onboarding.id,
+      count: 12000,
+    });
+  } catch (err) {
+    console.error('❌ INSERT FAILED:', err);
+    res.status(500).json({ error: 'Database error' });
   }
-
-  // 201 because Flutter expects 201
-  res.status(201).json({
-    onboardingId: 1,
-    count: 12000,
-    language,
-  });
 });
 
-// STEP 2: Save experience level
-app.post('/api/onboarding/level', (req, res) => {
-  const { onboardingId, level } = req.body;
+/* =========================
+   SAVE LEVEL
+   ========================= */
+app.post('/api/onboarding/level', async (req, res) => {
+  console.log('🔥 LEVEL ROUTE HIT:', req.body);
 
-  if (!onboardingId || !level) {
-    return res.status(400).json({ error: 'Missing data' });
+  try {
+    const { onboardingId, level } = req.body;
+
+    await db.Onboarding.update(
+      { level },
+      { where: { id: onboardingId } }
+    );
+
+    res.json({ success: true });
+  } catch (err) {
+    console.error('❌ UPDATE FAILED:', err);
+    res.status(500).json({ error: 'Database error' });
   }
-
-  res.status(200).json({
-    success: true,
-    onboardingId,
-    level,
-  });
 });
 
-// OPTIONAL count endpoint (Flutter expects it)
-app.get('/api/onboarding/count/:language', (req, res) => {
-  res.status(200).json({ count: 12000 });
-});
+/* 🚀 START SERVER */
+console.log('🔥 about to start server');
 
-app.listen(5000, () => {
-  console.log('Server running on port 5000');
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => {
+  console.log(`🚀 Server running on port ${PORT}`);
 });
