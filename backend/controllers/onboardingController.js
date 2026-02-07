@@ -50,6 +50,36 @@ exports.saveLevel = async (req, res) => {
     res.status(500).json({ error: err.message });
   }
 };
+
+exports.saveReason = async (req, res) => {
+  try {
+    const { onboardingId, reason } = req.body;
+    await Onboarding.update({ learningReason: reason }, { where: { id: onboardingId } });
+    res.json({ message: 'Reason saved successfully' });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};
+
+exports.savePreparations = async (req, res) => {
+  try {
+    const { onboardingId, preparations } = req.body;
+    await Onboarding.update({ preparations }, { where: { id: onboardingId } });
+    res.json({ message: 'Preparations saved successfully' });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};
+
+exports.saveDailyGoal = async (req, res) => {
+  try {
+    const { onboardingId, dailyGoal } = req.body;
+    await Onboarding.update({ dailyGoal }, { where: { id: onboardingId } });
+    res.json({ message: 'Daily goal saved successfully' });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};
 exports.getLanguageCount = async (req, res) => {
   try {
     const { language } = req.params;

@@ -18,6 +18,21 @@ module.exports = (sequelize) => {
       allowNull: true,
     },
 
+    learningReason: {
+      type: DataTypes.STRING,
+      allowNull: true,
+    },
+
+    preparations: {
+      type: DataTypes.JSON,
+      allowNull: true,
+    },
+
+    dailyGoal: {
+      type: DataTypes.STRING,
+      allowNull: true,
+    },
+
     userId: {
       type: DataTypes.INTEGER,
       allowNull: true,

@@ -1,17 +1,19 @@
-
 import 'package:flutter/material.dart';
 import 'experience_level_screen.dart';
+import 'plan_selection_screen.dart';
 
 class CourseBuildingScreen extends StatefulWidget {
   final String selectedLanguage;
   final int count;
   final int onboardingId;
+  final String selectedLevel;
 
   const CourseBuildingScreen({
     super.key,
     required this.selectedLanguage,
     required this.count,
     required this.onboardingId,
+    required this.selectedLevel,
   });
 
   @override
@@ -27,9 +29,9 @@ class _CourseBuildingScreenState extends State<CourseBuildingScreen> {
       Navigator.pushReplacement(
         context,
         MaterialPageRoute(
-          builder: (_) => ExperienceLevelScreen(
+          builder: (_) => PlanSelectionScreen(
             selectedLanguage: widget.selectedLanguage,
-            onboardingId: widget.onboardingId,
+            selectedLevel: widget.selectedLevel,
           ),
         ),
       );

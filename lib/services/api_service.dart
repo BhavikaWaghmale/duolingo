@@ -11,13 +11,16 @@ class ApiService {
     }
   }
 
-  /// STEP 1: Save language + get count + onboardingId
+  // STEP 1
   static Future<Map<String, dynamic>> saveLanguage(String language) async {
     final response = await http.post(
       Uri.parse('$baseUrl/onboarding/language'),
       headers: {'Content-Type': 'application/json'},
       body: jsonEncode({'language': language}),
     );
+
+    print('LANG STATUS: ${response.statusCode}');
+    print('LANG BODY: ${response.body}');
 
     if (response.statusCode != 201) {
       throw Exception('Failed to save language');
@@ -26,7 +29,7 @@ class ApiService {
     return jsonDecode(response.body);
   }
 
-  /// STEP 2: Save experience level
+  // STEP 2
   static Future<void> saveLevel({
     required int onboardingId,
     required String level,
@@ -34,24 +37,14 @@ class ApiService {
     final response = await http.post(
       Uri.parse('$baseUrl/onboarding/level'),
       headers: {'Content-Type': 'application/json'},
-      body: jsonEncode({
-        'onboardingId': onboardingId,
-        'level': level,
-      }),
+      body: jsonEncode({'onboardingId': onboardingId, 'level': level}),
     );
+
+    print('LEVEL STATUS: ${response.statusCode}');
+    print('LEVEL BODY: ${response.body}');
 
     if (response.statusCode != 200) {
       throw Exception('Failed to save experience level');
     }
-  }
-
-  /// OPTIONAL: Get count separately (already included in step 1)
-  static Future<int> fetchLanguageCount(String language) async {
-    final res = await http.get(
-      Uri.parse('$baseUrl/onboarding/count/$language'),
-    );
-
-    final data = jsonDecode(res.body);
-    return data['count'];
   }
 }

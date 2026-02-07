@@ -4,9 +4,9 @@
     "build_asset_types": [],
     "linking_enabled": false
   },
-  "out_dir_shared": "C:\\Users\\wagmale\\Desktop\\Bhavika_Office\\duolingo\\.dart_tool\\hooks_runner\\shared\\objective_c\\build\\",
-  "out_file": "C:\\Users\\wagmale\\Desktop\\Bhavika_Office\\duolingo\\.dart_tool\\hooks_runner\\objective_c\\337ce265dcc475d72fd7c043591321ec\\output.json",
+  "out_dir_shared": "C:\\Flutter_projects\\duolingo_merged\\.dart_tool\\hooks_runner\\shared\\objective_c\\build\\",
+  "out_file": "C:\\Flutter_projects\\duolingo_merged\\.dart_tool\\hooks_runner\\objective_c\\337ce265dcc475d72fd7c043591321ec\\output.json",
   "package_name": "objective_c",
-  "package_root": "C:\\Users\\wagmale\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\objective_c-9.3.0\\",
+  "package_root": "C:\\Users\\shreyash\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\objective_c-9.3.0\\",
   "user_defines": {}
 }

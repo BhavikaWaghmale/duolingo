@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'services/api_service.dart';
 import 'plan_selection_screen.dart';
+import 'course_building_screen.dart';
 
 class ExperienceLevelScreen extends StatefulWidget {
   final String selectedLanguage;
@@ -178,12 +179,14 @@ class _ExperienceLevelScreenState extends State<ExperienceLevelScreen> {
                                 ),
                               );
 
-                              // Navigate to Plan selection screen
+                              // Navigate to Course Building screen
                               Navigator.pushReplacement(
                                 context,
                                 MaterialPageRoute(
-                                  builder: (_) => PlanSelectionScreen(
+                                  builder: (_) => CourseBuildingScreen(
                                     selectedLanguage: widget.selectedLanguage,
+                                    count: 100, // Placeholder count
+                                    onboardingId: widget.onboardingId,
                                     selectedLevel: levels[selectedIndex!],
                                   ),
                                 ),

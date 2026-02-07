@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'course_building_screen.dart';
+import 'learning_reason_screen.dart';
 
 class LanguageSelectionScreen extends StatefulWidget {
   const LanguageSelectionScreen({super.key});
@@ -47,10 +48,9 @@ class _LanguageSelectionScreenState extends State<LanguageSelectionScreen> {
     Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (_) => CourseBuildingScreen(
+        builder: (_) => LearningReasonScreen(
           selectedLanguage: selectedLanguage!,
-          count: count,
-          onboardingId: onboardingId, // ✅ IMPORTANT
+          onboardingId: onboardingId,
         ),
       ),
     );
